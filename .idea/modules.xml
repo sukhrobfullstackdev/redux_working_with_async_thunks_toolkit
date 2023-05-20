@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/redux_course_four_hours_02.iml" filepath="$PROJECT_DIR$/.idea/redux_course_four_hours_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/redux_working_with_async_thunks_toolkit.iml" filepath="$PROJECT_DIR$/.idea/redux_working_with_async_thunks_toolkit.iml" />
     </modules>
   </component>
 </project>
